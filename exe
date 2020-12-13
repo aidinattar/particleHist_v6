@@ -1,0 +1,3 @@
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/aidin/Documenti/programmazione_a_oggetti/particleHist_v6:/home/aidin/anaconda3/envs/myroot
+
+poi ./runAll sim 100000 2 dump plot hist.root time time.root
